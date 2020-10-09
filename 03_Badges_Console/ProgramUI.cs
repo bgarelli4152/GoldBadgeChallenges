@@ -24,7 +24,7 @@ namespace _03_Badges_Console
             while (running == true)
             {
                 //display options
-                System.Console.WriteLine("Welcome to Komodo Cafe! \n" +
+                System.Console.WriteLine("Welcome to Komodo Security! \n" +
                     "1. Add a badge \n" +
                     "2. Edit a badge \n" +
                     "3. List all badges\n" +
